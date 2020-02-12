@@ -1,3 +1,24 @@
+FITNESS TRAINER
+===============
+Team Members:
+        Vivek Kumar (844548) || Team Leader
+        Suja S (844607)
+        Ankem Vasanthi (844587)
+        Rekha P (844531)
+        Gaurav Bhardwaj (844578)
+        
+My work:
+        ContactUs.html
+        and integration of the html pages
+        
+Description: Basically ContactUs page is for, if the viewer have any querries before selecting a trainer or a package, he can contact           the admin through phone and mailid.
+
+Difficulties faced: In developing ContactUs.html, only one problem faced is in the validation of the form.
+             Validation of name and email was working fine but in the validation of phone number was quite challenging.
+             Integration was quite easy.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
 <!DOCTYPE html>
 <html en=8>
 <head>
@@ -224,8 +245,3 @@ function validateForm() {
 </html>
 
 
-
-In our team, i created the contact us form.
-Basic validation like name validation etc are done.
-while in validating the phone number and email, it was difficult..
-And i did integration also.

@@ -13,7 +13,7 @@ My work:
         ContactUs.html
         and integration of the html pages
         
-Description: Basically ContactUs page is for, if the viewer have any querries before selecting a trainer or a package, he can contact           the admin through phone and mailid.
+Description: Basically ContactUs page is for, if the viewer have any querries before selecting a trainer or a package, he can contact the admin through phone and mailid.
 
 Difficulties faced: In developing ContactUs.html, only one problem faced is in the validation of the form.
              Validation of name and email was working fine but in the validation of phone number was quite challenging.
